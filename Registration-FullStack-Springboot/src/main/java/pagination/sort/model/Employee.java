@@ -2,11 +2,6 @@ package pagination.sort.model;
 
 import javax.persistence.*;
 
-/**
- * @Author: apple
- * @created on 03/07/2020
- * @Project is PaginationSort
- */
 
 @Entity
 @Table(name = "employee")
