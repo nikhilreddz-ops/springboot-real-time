@@ -5,11 +5,7 @@ import pagination.sort.model.Employee;
 
 import java.util.List;
 
-/**
- * @Autor: apple
- * @created on 03/07/2020
- * @Project is PaginationSort
- */
+
 public interface EmployeeService {
 
     List<Employee> getAllEmployees();
